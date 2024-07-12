@@ -7,5 +7,5 @@ source ~/venvs/autogen/bin/activate
 
 pip install -r requirements.txt
 
-python ./two_sum.py
+python two_sum.py
 ```
